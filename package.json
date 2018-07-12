@@ -1,11 +1,11 @@
 {
-  "name": "libs-core",
+  "name": "web-interfaces",
   "version": "1.0.1",
   "description": "project libraies core",
   "author": "Ocean",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ocean000/vue2-libs.git"
+    "url": "https://github.com/ocean000/web-interfaces.git"
   },
   "scripts": {
     "build": "rollup -c"
